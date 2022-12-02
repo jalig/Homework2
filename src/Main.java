@@ -3,7 +3,7 @@ public class Main {
         int a1 = 10;
         int b1 = 30;
         int a2 = 20;
-        int b2 = 40;
+        int b2 = 50;
 
         if (b1 < a2 || b2 < a1){
             System.out.println("Пересечения нет");
